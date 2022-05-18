@@ -1,0 +1,8 @@
+.box-marker{
+	position: absolute;
+	box-shadow: 0 0 0 4px greenyellow inset;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	cursor: pointer;
+}
